@@ -1,1 +1,2 @@
-# 343_JavaScript-
+# 343JavascriptHW
+# Brent Thompson
